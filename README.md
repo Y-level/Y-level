@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-level)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/marketplace/actions/metrics)](https://github.com/lowlighter/metrics)
